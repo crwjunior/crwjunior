@@ -1,4 +1,12 @@
-##  Opa! Bem-vindo ao meu GitHub! 🐱
+#  Greetings, wanderer! You’ve discovered my coding realm. 🐱⚔️
+
+## Welcome! I'm Carlos, 26!
+
+- Software Engineering student (8/9)  
+- Back-End dev  
+- Game dev enthusiast
+- Explorer of ideas & logic
+- In addition to coding, i love sports
 
 <div style ="display: inline_block"><br>
   <img align-center alt="wittCSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
